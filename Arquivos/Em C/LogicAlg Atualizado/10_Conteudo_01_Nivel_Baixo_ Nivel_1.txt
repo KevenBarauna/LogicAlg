@@ -1,0 +1,16 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                      XX
+XX              Linguagem de Programação - Portugol                     XX
+XX                                                                      XX
+XX É uma linguagem de programação é  um conjunto de regras sintáticas e XX
+XX semânticas que se assemelha com a linguagem C, porem em Português. A XX
+XX vantagem da  utilização do Portugol é um conjunto de palavras já de- XX
+XX finida que possibilita um maior entendimento e  facilitando a tradu- XX
+XX ção para a linguagem de programação. É necessário um compilador para XX
+XX verificar se  a sintaxe  e a semântica  estão corretas. Compiladores XX
+XX são programas  de computador  que verifica  se um código  escrito na XX
+XX linguagem de programação pode criar um programa.                     XX
+XX                                                                      XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...

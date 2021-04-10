@@ -1,0 +1,27 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                  XX
+XX                  Estrutura de Decisão  (01/02)                   XX
+XX                                                                  XX
+XX A estrutura de decisão deve ser utilizada quando uma determinada XX
+XX condição pode ser verdadeira ou falsa.                           XX
+XX                                                                  XX
+XX Para passar no semestre minha media deve ser igual ou maior  que XX
+XX 6, se  minha  nota estiver dentro  dessa condição  eu passei  no XX
+XX semestre, se não eu não passei.                                  XX
+XX                                                                  XX
+XX Formas de uso:                                                   XX
+XX                                                                  XX
+XX 01)se <condição> entao <comando>;                                XX
+XX                                                                  XX
+XX 02)se <condição> entao <comando> senao <comando>;                XX
+XX                                                                  XX
+XX 03)se <condição> entao <comando> senao-se <condição>             XX
+XX entao <comando>;                                                 XX
+XX                                                                  XX
+XX 04)escolha <variável> caso <=variável> <comando>.                XX
+XX                                                                  XX
+XX                                                     Continua...  XX
+XX                                                                  XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...

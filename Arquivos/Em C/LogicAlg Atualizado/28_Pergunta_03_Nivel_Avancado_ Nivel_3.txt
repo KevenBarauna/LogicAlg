@@ -1,0 +1,32 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                     XX +-----------------------------+
+XX Pergunta 03 - Teste de Mesa - (3/3) XX |        Teste de Mesa        |
+XX                                     XX +-----+-----+-----+-----+-----+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | A=? | B=? | Cont| C=0 | D=0 |
+                                          +-----+-----+-----+-----+-----+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          |  _  |  _  |  _  |  _  |  _  |
+X                              X          +-----+-----+-----+-----+-----+
+X Qual é o resultado de D-C?   X          |  _  |  _  |  _  |  _  |  _  |
+X                              X          +-----+-----+-----+-----+-----+
+X Algoritmo "Teste de Mesa"    X          |  _  |  _  |  _  |  _  |  _  |
+X Var A, B, cont, C, D:inteiro X          +-----+-----+-----+-----+-----+
+X Inicio                       X          |  _  |  _  |  _  |  _  |  _  |
+X C<-0                         X          +-----+-----+-----+-----+-----+
+X D<-0                         X          |  _  |  _  |  _  |  _  |  _  |
+X A<-3                         X          +-----+-----+-----+-----+-----+
+X B<-9                         X          |  _  |  _  |  _  |  _  |  _  |
+X cont<-A                      X          +-----+-----+-----+-----+-----+
+X enquanto (cont<=B) faca      X          |  _  |  _  |  _  |  _  |  _  |
+X     se (cont%2=0) entao      X          +-----+-----+-----+-----+-----+
+X        C<-C+A+cont           X
+X        senao                 X
+X        D<-D+C+cont           X
+X     fimse                    X
+X   cont<-cont+1               X
+X fimenquanto                  X
+X escreva("Resultado= ",D-C)   X
+X Fimalgoritmo                 X
+X                              X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Resposta: 

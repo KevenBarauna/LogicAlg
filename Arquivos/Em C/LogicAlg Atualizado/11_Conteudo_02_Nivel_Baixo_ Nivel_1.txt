@@ -1,0 +1,22 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                               XX
+XX                     Lógica de Programação                     XX
+XX                                                               XX
+XX É a técnica de criar algoritmos com seqüências lógicas em uma XX
+XX linguagem de programação capazes de criar um programa.        XX
+XX                                                               XX
+XX Exemplo:                                                      XX
+XX                                                               XX
+XX Algoritmo "Olá Mundo!"                                        XX
+XX                                                               XX
+XX Var                                                           XX
+XX                                                               XX
+XX Inicio                                                        XX
+XX                                                               XX
+XX escreva("Olá Mundo!")                                         XX
+XX                                                               XX
+XX Fimalgoritmo                                                  XX
+XX                                                               XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...

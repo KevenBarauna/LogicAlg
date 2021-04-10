@@ -1,0 +1,26 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                   XX
+XX        Resposta Incorreta         XX
+XX                                   XX
+XX    Resposta 03 - Lógica - (3/3)   XX
+XX                                   XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                         X
+X Qual é o valor final:   X
+X                         X
+X @ + @ + @   = 30        X
+X                         X
+X @ + $ + $   = 20        X
+X                         X
+X $ + && + && = 9         X
+X                         X
+X $ + & x @   =           X
+X                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Resposta: $ + & x @ =15
++------+-----+-------------+-------------+
+| @=10 | $=5 | &&=2 :D &=1 | 5+(1x10)=15 |
++------+-----+-------------+-------------+

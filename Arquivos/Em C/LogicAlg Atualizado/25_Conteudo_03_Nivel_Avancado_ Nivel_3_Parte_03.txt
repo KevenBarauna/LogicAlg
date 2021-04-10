@@ -1,0 +1,32 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                      XX
+XX          Teste de Mesa - Estrutura de Repetição    (03/03)           XX
+XX                                                                      XX
+XX Continuação...                                                       XX
+XX                                                                      XX
+XX Algoritmo " Teste de Mesa"                                           XX
+XX                                                                      XX
+XX var Cont, Num, Valor:inteiro // Cont=Contador, Num=Número;           XX
+XX                                                                      XX
+XX inicio                                                               XX
+XX                                                                      XX
+XX Num<-1 // O Número inicial será o 1;                                 XX
+XX                                                                      XX
+XX Cont<-6 // O Contador recebe o valor da soma;                        XX
+XX                                                                      XX
+XX enquanto (Cont<=5) faca // O Contador agora é 6, mas 6 não é <= a 5, XX
+XX //então a condição é falsa, e sai da estrutura de repetição;         XX
+XX                                                                      XX
+XX Valor<- Cont // Programa não entrou na condição;                     XX
+XX                                                                      XX
+XX escreva(Valor) // Programa não entrou na condição;                   XX
+XX                                                                      XX
+XX Cont<-Cont+2 // Programa não entrou na condição;                     XX
+XX                                                                      XX
+XX Fimenquanto //A condição é falsa, programa sai para ser finalizado.  XX
+XX                                                                      XX
+XX Fimalgoritmo                                                         XX
+XX                                                                      XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...

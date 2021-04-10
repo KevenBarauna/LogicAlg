@@ -1,0 +1,25 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                      XX
+XX          Teste de Mesa - Estrutura de decisão    (02/02)             XX
+XX                                                                      XX
+XX Continuação...                                                       XX
+XX                                                                      XX
+XX C) {se (8%2=1) entao.........// Se a condição for verdadeira;        XX
+XX         7<3..................// Ela entra neste comando;             XX
+XX     senao....................// Se a condição for falsa;             XX
+XX         escreva(“Incorreto”).// Ela entra neste comando;             XX
+XX     fimse}...................// E sai da estrutura.                  XX
+XX                                                                      XX
+XX Questão correta 8 não é Impar, então ele vai entrar na SENAO.        XX
+XX                                                                      XX
+XX D) {se (13%2=0) entao........// Se a condição for verdadeira;        XX
+XX         2%2=1................// Ela entra neste comando;             XX
+XX     senao....................// Se a condição for falsa;             XX
+XX         escreva(“Incorreta”).// Ela entra neste comando;             XX
+XX     fimse}...................// E sai da estrutura.                  XX
+XX                                                                      XX
+XX Questão correta 13 não é Par, então ele vai entrar na SENAO.         XX
+XX                                                                      XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...

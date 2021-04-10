@@ -1,0 +1,33 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                      XX
+XX          Teste de Mesa - Estrutura de decisão    (01/02)             XX
+XX                                                                      XX
+XX O teste de mesa é utilizado para  verificar se a lógica do algoritmo XX
+XX esta correta. É analisado linha por linha para identificar se possui XX
+XX algum erro,  se no algoritmo houver  alguma estrutura de repetição o XX
+XX teste de  mesa volta para  verificar as  linhas novamente até  que a XX
+XX condição o retire da repetição.                                      XX
+XX                                                                      XX
+XX Exemplos:                                                            XX
+XX                                                                      XX
+XX A) {se (2%2=0) entao.........// Se a condição for verdadeira;        XX
+XX         3%2=1................// Ela entra neste comando;             XX
+XX     senao....................// Se a condição for falsa;             XX
+XX         escreva(“Incorreta”).// Ela entra neste comando;             XX
+XX     fimse}...................// E sai da estrutura.                  XX
+XX                                                                      XX
+XX Questão correta 2=Par então 3 é Impar.                               XX
+XX                                                                      XX
+XX B) {se (10%2=0) entao........// Se a condição for verdadeira;        XX
+XX         6>20.................// Ela entra neste comando;             XX
+XX     senao....................// Se a condição for falsa;             XX
+XX         escreva(“Incorreta”).// Ela entra neste comando;             XX
+XX     fimse}...................// E sai da estrutura.                  XX
+XX                                                                      XX
+XX Questão incorreta 2=Par , mas 6 não é maior que 20.                  XX
+XX                                                                      XX
+XX                                                         Continua...  XX
+XX                                                                      XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...

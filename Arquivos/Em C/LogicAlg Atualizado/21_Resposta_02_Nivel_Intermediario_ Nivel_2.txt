@@ -1,0 +1,22 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                            XX
+XX            Resposta Incorreta              XX
+XX                                            XX
+XX  Resposta 02 - Estrutura Portugol - (2/3)  XX
+XX                                            XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                   X
+X Complete o Algoritmo:             X
+X                                   X
+X algoritmo"Pergunta 02 - Nível 02" X
+X Var                               X
+X Produto:real                      X
+X                                   X
+X Inicio                            X
+X Produto:=28/43                    X
+X escreva(Produto)                  X
+X Fimalgoritmo                      X
+X                                   X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

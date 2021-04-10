@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                              XX
+XX Pergunta 03 - Estrutura de Repetição - (3/3) XX
+XX                                              XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                          X
+X Complete a estrutura:                    X
+X                                          X
+X 01) ________<condição> ____ <Comando>    X
+X     fimenquanto                          X
+X                                          X
+X 02) ______ <comando> ate <condição>      X
+X                                          X
+X 03) ____ <variável> de <condição> ___    X
+X <condição> _____ <condição>____<comando> X
+X                                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

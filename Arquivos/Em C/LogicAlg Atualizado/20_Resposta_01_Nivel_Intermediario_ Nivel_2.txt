@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                   XX
+XX        Resposta Incorreta         XX
+XX                                   XX
+XX  Resposta 01 - Variáveis - (1/3)  XX
+XX                                   XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                         X
+X Informe os tipos de variáveis:          X
+X                                         X
+X A) 50 - 76 - 90: inteiro                X
+X                                         X
+X B) CASA, LogicAlg, UniJorge: caractere  X
+X                                         X
+X C) 05,1 - 1,001 - 1,0: real             X
+X                                         X
+X D) 0=Falso, 1=Verdadeiro: logico        X
+X                                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

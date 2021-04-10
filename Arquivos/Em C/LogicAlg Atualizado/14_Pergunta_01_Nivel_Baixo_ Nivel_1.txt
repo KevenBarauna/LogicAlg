@@ -1,0 +1,18 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                   XX
+XX  Pergunta 01 - Algoritmo - (1/3)  XX
+XX                                   XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                                   +-----------+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      | Algoritmo |
+X                                           X      +-----------+
+X Monte a estrutura correta do algoritmo    X      |    __     |
+X Utilizando apenas os Numeros:             X      +-----------+
+X                                           X      |    __     |
+X Passo 01 – Levar o produto até o caixa    X      +-----------+
+X Passo 02 – Sair do Mercado com o Produto  X      |    __     |
+X Passo 03 – Fazer o pagamento              X      +-----------+
+X Passo 04 – Pegar o Produto                X      |    __     |
+X Passo 05 – Entrar no Mercado              X      +-----------+
+X                                           X      |    __     |
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      +-----------+

@@ -1,0 +1,35 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                     XX
+XX         Resposta Incorreta          XX
+XX                                     XX +-----------------------------+
+XX Resposta 02 - Teste de Mesa - (2/3) XX |        Teste de Mesa        |
+XX                                     XX +-----+-----+-----+-----+-----+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX | A=? | B=? |Cont | C=0 | D=0 |
+                                          +-----+-----+-----+-----+-----+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX          |  2  |  7  |  2  |  2  |  0  |
+X                              X          +-----+-----+-----+-----+-----+
+X Qual é o valor de D?         X          |  2  |  7  |  3  |  2  |  3  |
+X                              X          +-----+-----+-----+-----+-----+
+X Algoritmo "Teste de Mesa"    X          |  2  |  7  |  4  |  6  |  3  |
+X Var A, B, cont, C, D:inteiro X          +-----+-----+-----+-----+-----+
+X Inicio                       X          |  2  |  7  |  5  |  6  |  8  |
+X C<-0                         X          +-----+-----+-----+-----+-----+
+X D<-0                         X          |  2  |  7  |  6  |  12 |  8  |
+X A<-2                         X          +-----+-----+-----+-----+-----+
+X B<-7                         X          |  2  |  7  |  7  |  12 |  15 |
+X cont<-A                      X          +-----+-----+-----+-----+-----+
+X enquanto (cont<=B) faca      X
+X     se (cont%2=0) entao      X
+X        C<-C+cont             X
+X        senao                 X
+X        D<-D+cont             X
+X     fimse                    X
+X   cont<-cont+1               X
+X fimenquanto                  X
+X escreva("D= ",D+C)           X
+X Fimalgoritmo                 X
+X                              X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
++--------------+
+| Resposta: 27 |
++--------------+

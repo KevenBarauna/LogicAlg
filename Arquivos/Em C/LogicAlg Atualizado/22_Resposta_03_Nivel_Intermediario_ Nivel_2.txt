@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                              XX
+XX              Resposta Incorreta              XX
+XX                                              XX
+XX Resposta 03 - Estrutura de Repetição - (3/3) XX
+XX                                              XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                            X
+X Complete a estrutura:                      X
+X                                            X
+X 01) enquanto<condição> faca <Comando>      X
+X     fimenquanto                            X
+X                                            X
+X 02) repita <comando> ate <condição>        X
+X                                            X
+X 03) para <variável> de <condição> ate      X
+X <condição> passo <condição> faca <comando> X
+X                                            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

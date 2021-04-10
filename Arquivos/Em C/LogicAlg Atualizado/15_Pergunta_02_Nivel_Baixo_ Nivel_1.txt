@@ -1,0 +1,22 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                   XX
+XX    Pergunta 02 - Lógica - (2/3)   XX
+XX                                   XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                               X
+X As palavras abaixo tem uma determinada regra: X
+X Camisola, Acetona, Macaco, Abacaxi, Mágico... X
+X                                               X
+X Qual é a próxima palavra?                     X
+X                                               X
+X A) Égua                                       X
+X B) Azeitona                                   X
+X C) Maionese                                   X
+X D) Futebol                                    X
+X E) Publicação                                 X
+X                                               X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Resposta: 

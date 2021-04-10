@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                   XX
+XX  Pergunta 01 - Variáveis - (1/3)  XX
+XX                                   XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                         X
+X Informe os tipos de variáveis:          X
+X                                         X
+X A) 50 - 76 - 90:__________              X
+X                                         X
+X B) CASA, LogicAlg, UniJorge:___________ X
+X                                         X
+X C) 05,1 - 1,001 - 1,0:___________       X
+X                                         X
+X D) 0=Falso, 1=Verdadeiro:_________      X
+X                                         X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

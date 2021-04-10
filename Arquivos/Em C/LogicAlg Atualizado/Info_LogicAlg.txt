@@ -1,0 +1,26 @@
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                      XX
+XX                   Informações sobre o LogicAlg                       XX
+XX                                                                      XX
+XX A elaboração  deste  projeto  se deu  pelo  fato de  que aprender  a XX
+XX programar  requer  muita  atenção, conhecimento  e  prática, algumas XX
+XX pessoas podem  ter a  maior facilidade no inicio de sua programação, XX
+XX mas outras podem  ter  muitas  dificuldades  para  o  aprendizado  e XX
+XX tendem  a  desistir por não compreender o assunto. Por estes motivos XX
+XX queremos ajudar as pessoas  a terem  o conhecimento necessário sobre XX
+XX a  lógica  de  programação,  tanto para  conhecimento pessoal quanto XX
+XX profissional.                                                        XX
+XX                                                                      XX
+XX Desenvolvedores:                                                     XX
+XX                                                                      XX
+XX Emerson Evangelista dos Santos                                       XX
+XX Erick Vinicius Pinto dos Santos                                      XX
+XX Gabriel Barreto Ferreira                                             XX
+XX Keven Pacheco Baraúna                                                XX
+XX Leonardo dos Santos Esteves                                          XX
+XX Raphael Carvalho Monteiro                                            XX
+XX                                                                      XX
+XX                   1-Menu              2-Sair                         XX
+XX                                                                      XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

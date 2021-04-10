@@ -1,0 +1,29 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                 X
+X  Pergunta 05 - Teste de Mesa = 1 Ponto - (5/5)  X
+X                                                 X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+                                                +-----------------------+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |     Teste de Mesa     |
+X                                           X   +-------+-------+-------+
+X Print em tela o valor da soma de N:       X   | Cont  |   N   | Result|
+X Realize o Teste de Mesa de forma correta: X   +-------+-------+-------+
+X                                           X   |   _   |   _   |   _   |
+X Algoritmo "Teste de Mesa"                 X   +-------+-------+-------+
+X Var N, cont,Result:inteiro                X   |   _   |   _   |   _   |
+X inicio                                    X   +-------+-------+-------+
+X escreva("Digite um Número")               X   |   _   |   _   |   _   |
+X leia(N)// N=3                             X   +-------+-------+-------+
+X cont<-1                                   X
+X Enquanto (cont<=3)faca                    X
+X Result<-cont+N                            X
+X Escreva(Result)                           X
+X cont<-cont+1                              X
+X Fimenquanto                               X
+X Escreva(Result*3)                         X
+X fimalgoritmo                              X
+X                                           X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Resposta: 

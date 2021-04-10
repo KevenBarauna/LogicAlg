@@ -1,0 +1,18 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                XX
+XX     Estrutura básicas da Linguagem Portugol    XX
+XX                                                XX
+XX  Algoritmo "LogicAlg" // Nome do programa.     XX
+XX  Var // Declarações das variáveis .            XX
+XX                                                XX
+XX  Inicio // Inicio da programação.              XX
+XX                                                XX
+XX  // Seção dos Comandos, procedimento, funções, XX
+XX  // operadores, etc...                         XX
+XX                                                XX
+XX  Fimalgoritmo //Finalizando o Programa.        XX
+XX                                                XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...
+

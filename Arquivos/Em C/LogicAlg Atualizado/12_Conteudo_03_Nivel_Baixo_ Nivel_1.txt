@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XX                                                                  XX
+XX                               Algoritmo                          XX
+XX                                                                  XX
+XX Algoritmo é uma seqüência de passos finitos que devem ser usados XX
+XX para realizar uma tarefa.                                        XX
+XX                                                                  XX
+XX Exemplo:                                                         XX
+XX                                                                  XX
+XX Algoritmo - Fast-food                                            XX
+XX                                                                  XX
+XX Passo 01 – Escolhe um tipo de sanduíche;                         XX
+XX Passo 02 – Escolhe o pão;                                        XX
+XX Passo 03 – Escolhe o sabor do queijo;                            XX
+XX Passo 04 – Escolhe os vegetais;                                  XX
+XX Passo 05 – Escolhe o molho;                                      XX
+XX Passo 06 – Efetua o pagamento.                                   XX
+XX                                                                  XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Para continuar pressione ENTER...
